@@ -1,0 +1,62 @@
+Species,VASCAN name,synonym source,ballast,horticultural,agricultural,British Columbia
+Agrostis longiligula,Agrostis exarata,Kew POWO,NA,NA,NA,Native
+Briza media,Briza media,NA,NA,TRUE,NA,Excluded
+Eragrostis hypnoides,Eragrostis hypnoides,NA,NA,NA,NA,Absent
+Melica Geyeri,Melica geyeri,NA,NA,NA,NA,Excluded
+Mibora minima,Mibora minima,NA,NA,NA,NA,Excluded
+Panicum huachucae,Dichanthelium lanuginosum,VASCAN,NA,NA,NA,Native
+Panicum tenue,Dichanthelium tenue,"""Dichanthelium tenue"" from Kew POWO; not in VASCAN",NA,NA,NA,NA
+Setaria verticillata,Setaria verticillata,NA,NA,NA,NA,Introduced
+Carex castanea,Carex castanea,NA,NA,NA,TRUE,Absent
+Hemicarpha micrantha,Cyperus subsquarrosus,VASCAN,NA,NA,NA,Native
+Juncus brevicaudatus,Juncus tweedyi,VASCAN,NA,NA,NA,Native
+Polygonum humifusum,Polygonum humifusum,NA,TRUE,NA,NA,Excluded
+Corrigiola littoralis,Corrigiola litoralis,NA,NA,TRUE,NA,Introduced
+Paronychia jamesii,NA,valid name but not in VASCAN,NA,NA,NA,NA
+Cerastium tomentosum,Cerastium tomentosum,NA,NA,TRUE,NA,Introduced
+Caltha palustris,Caltha palustris,NA,NA,NA,NA,Native
+Ranunculus hebacarpus,Ranunculus hebecarpus,NA,TRUE,NA,NA,Excluded
+Ranunculus recurvatus,Ranunculus recurvatus,NA,NA,NA,NA,Absent
+Berberis vulgaris,Berberis vulgaris,NA,NA,TRUE,NA,Introduced
+Papaver rhoeas,Papaver rhoeas,NA,NA,NA,NA,Introduced
+Arabis breweri,NA,"""Boechera breweri"" from Kew POWO; not in VASCAN",NA,NA,NA,NA
+Bunias orientalis,Bunias orientalis,NA,NA,NA,NA,Introduced
+Reseda lutea,Reseda lutea,NA,NA,NA,NA,Introduced
+Crataegus oxyacantha,NA,"""Crataegus rhipidophylla"" from Kew POWO; not in VASCAN",NA,TRUE,NA,NA
+Crataegus monogyna,Crataegus monogyna,NA,NA,TRUE,NA,Introduced
+Potentilla recta,Potentilla recta,NA,NA,NA,NA,Introduced
+Spiraea salicifolia,Spiraea salicifolia,NA,NA,TRUE,NA,Absent
+Astragalus leucopsis,Astragalus trichopodus,NA,NA,NA,NA,Excluded
+Lathyrus nevadensis,Lathyrus nevadensis,NA,NA,NA,NA,Native
+Medicago orbicularis,Medicago orbicularis,NA,NA,NA,NA,Excluded
+Melilotus indica,Melilotus indicus,NA,NA,NA,NA,Excluded
+Trifolium fucatum,Trifolium fucatum,NA,NA,NA,NA,Excluded
+Trifolium longipes,NA,valid name but not in VASCAN,NA,NA,NA,NA
+Erodium moschatum,Erodium moschatum,NA,NA,NA,NA,Excluded
+Oxalis oregana,Oxalis oregana,NA,NA,NA,NA,Native
+Euphorbia vermiculata,Euphorbia vermiculata,NA,NA,NA,NA,Excluded
+Althaea hirsuta,Althaea hirsuta,NA,NA,NA,NA,Excluded
+Hypericum canadense,Hypericum canadense,NA,NA,NA,NA,Absent
+Hypericum virginicum,Hypericum virginicum,NA,NA,NA,NA,Absent
+Rhexia virginica,Rhexia virginica,NA,NA,NA,TRUE,Absent
+Godetia gracilis,Clarkia gracilis,NA,NA,NA,NA,Excluded
+Godetia hispidula,NA,"""Clarkia arcuata"" from kew POWO; not in VASCAN",TRUE,NA,NA,NA
+Carum oreganum,NA,"""Perideridia oregana' from Kew POWO; not in VASCAN",NA,NA,NA,NA
+Dodecatheon frigidum,Primula frigida,VASCAN,NA,NA,NA,Native
+Lysimachia terrestris,Lysimachia terrestris,NA,NA,NA,TRUE,Introduced
+Phacelia hispida,NA,"""Phacelia cicutaria"" from Kew POWO; not in VASCAN",TRUE,NA,NA,NA
+Phacelia tanacetifolia,Phacelia tanacetifolia,NA,NA,NA,NA,Excluded
+Borago officinalis,Borago officinalis,NA,NA,TRUE,NA,Introduced
+Cryptantha intermedia,Cryptantha intermedia,NA,TRUE,NA,NA,Excluded
+Trigonotis peduncularis,Trigonotis peduncularis,NA,TRUE,NA,NA,Excluded
+Hyoscyamus niger,Hyoscyamus niger,NA,NA,TRUE,NA,Introduced
+Linaria elatine,Kickxia elatine,Kew POWO,NA,NA,NA,Introduced
+Linaria spuria,Kickxia spuria,Kew POWO,NA,NA,NA,Excluded
+Asperula odorata,Galium odoratum,VASCAN,NA,TRUE,NA,Introduced
+Galium verum,Galium verum,NA,NA,TRUE,NA,Introduced
+Githopsis specularioides,Githopsis specularioides,NA,NA,NA,NA,Native
+Jasione montana,Jasione montana,NA,NA,TRUE,NA,Excluded
+Centaurea paniculata,Centaurea stoebe,VASCAN,NA,NA,NA,Introduced
+Helianthus scaberrimus,Helianthus x laetiflorus,VASCAN,NA,NA,NA,Ephemeral
+Hieracium murorum,Hieracium murorum,NA,NA,NA,NA,Introduced
+Psilocarphus oregonus,NA,valid name but not in VASCAN,NA,NA,NA,NA
