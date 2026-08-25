@@ -8,9 +8,10 @@ library(geosphere)
 library(RANN)
 
 # GBIF credentials
-user <- "" # Your GBIF account username
-pwd  <- "" # Your GBIF account password
-email <- "" # Your GBIF account email address
+user <- "pEastham_GBIFstone"
+pwd  <- "Pup8rRKkp4z_-KH"
+email <- "philippa.m.stone@gmail.com"
+
 
 
 ############################################################
@@ -256,7 +257,7 @@ cat("Mean bearing (deg):",
 # 8. Save plot
 ############################################################
 
-ggsave("compassPlot.png", plot = compassPlot, width = 8, height = 8, units = "in" )
+ggsave("compassPlot.png", plot = compassPlot, width = 8, height = 8, units = "in", dpi = 600 )
 
 
 
