@@ -230,9 +230,18 @@ simplerMap <- ggplot() +
        shape = "Collection Type") +
   annotation_north_arrow(location = "tr",
                          which_north = "true",
-                         style = north_arrow_fancy_orienteering) +
+                         style = north_arrow_fancy_orienteering,
+                         pad_x = unit(0.4, "in"),
+                         pad_y = unit(1.6, "in")
+  ) +
   annotation_scale(location = "bl", width_hint = 0.3) +
   theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5),
+    legend.position = c(0.98, 0.98),
+    legend.justification = c(1, 1), 
+    legend.background = element_rect(fill = "white", color = NA)
+  ) +
   guides(
     color = guide_legend(override.aes = list(shape = c(17, 15, 16))),
     shape = guide_legend(override.aes = list(color = c("darkorange1", "darkturquoise", "darkslategray")))
@@ -240,7 +249,7 @@ simplerMap <- ggplot() +
 
 plot(simplerMap)
 
-ggsave("EasthamCollectionsBC-simplerMap.png", plot = simplerMap, width = 10, height = 7.5)
+ggsave("EasthamCollectionsBC-simplerMap.png", plot = simplerMap, width = 10, height = 7.5, dpi = 600)
 
 
 
