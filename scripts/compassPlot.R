@@ -8,9 +8,9 @@ library(geosphere)
 library(RANN)
 
 # GBIF credentials
-user <- "pEastham_GBIFstone"
-pwd  <- "Pup8rRKkp4z_-KH"
-email <- "philippa.m.stone@gmail.com"
+user <- "" # Your GBIF account username
+pwd  <- "" # Your GBIF account password
+email <- "" # Your GBIF account email address
 
 
 
